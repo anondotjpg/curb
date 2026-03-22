@@ -108,7 +108,7 @@ export default function Home() {
             <div>
               <input
                 name="address"
-                placeholder="Address for Service"
+                placeholder="Address of Service"
                 value={form.address}
                 onChange={handleChange}
                 required
